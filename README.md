@@ -1,4 +1,5 @@
 # Marketing Campaign for Banking Products
+![Loan](loan.jpg)
 The project entitled **Marketing Campaign for Banking Products** has been built by myself as an **INTERNSHIP** in the guidance of [**Internship Studio**](https://internship.internshipstudio.com/) organization.
 
 - Here I have attached the [problem statement](https://github.com/anshukcse/Bank-Loan-Model/blob/master/Marketing%20Campaign%20for%20Banking%20Products.pdf) which I have followed to build the best suited model.
